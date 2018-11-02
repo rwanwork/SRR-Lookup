@@ -36,7 +36,7 @@ Organization
 
 After cloning this repository from GitHub, the following directory structure is obtained:
 
-    ├── Examples                Examples to test sam2irs against.
+    ├── Examples                Examples to test SRR-Lookup against.
     │   ├── *                   Files related to a very simple test case.
     ├── LICENSE                 Software license (GNU GPL v3).
     ├── srr-lookup.pl           The Perl main script.
@@ -81,7 +81,7 @@ Hong Kong University of Science and Technology.  My contact details:
 
 My homepage is [here](http://www.rwanwork.info/).
 
-The latest version of sam2irs can be downloaded from [GitHub](https://github.com/rwanwork/SRR-Lookup).
+The latest version of SRR-Lookup can be downloaded from [GitHub](https://github.com/rwanwork/SRR-Lookup).
 
 If you have any information about bugs, suggestions for the documentation or just have some general comments, feel free to write to one of the above addresses.
 
@@ -92,7 +92,7 @@ Copyright and License
      SRR-Lookup (SRR Lookup)
      Copyright (C) 2018 by Raymond Wan
 
-sam2irs is distributed under the terms of the GNU General
+SRR-Lookup is distributed under the terms of the GNU General
 Public License (GPL, version 3 or later) -- see the file LICENSE for details.
 
 Permission is granted to copy, distribute and/or modify this document under the
